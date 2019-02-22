@@ -14,3 +14,4 @@ public interface EmpDao {
 	
 	int deleteEmp(int empno);
 }
+
